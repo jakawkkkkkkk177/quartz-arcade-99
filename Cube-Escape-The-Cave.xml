@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruffle>
+    <movie name="Cube-Escape-The-Cave.swf">
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/quartz-zone-102@main/Cube-Escape-The-Cave.part001" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/topaz-link-106@main/Cube-Escape-The-Cave.part002" />
+    </movie>
+
+    <player>
+        <autoplay>on</autoplay>
+        <unmuteOverlay>hidden</unmuteOverlay>
+        <backgroundColor>#000</backgroundColor>
+        <letterbox>on</letterbox>
+        <warnOnUnsupportedContent>true</warnOnUnsupportedContent>
+        <contextMenu>on</contextMenu>
+        <showSwfDownload>false</showSwfDownload>
+        <allowNetworking>internal</allowNetworking>
+    </player>
+</ruffle>

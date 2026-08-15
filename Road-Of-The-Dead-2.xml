@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruffle>
+    <movie name="Road-Of-The-Dead-2.swf">
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/saffron-core-112@main/Road-Of-The-Dead-2.part001" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/garnet-span-113@main/Road-Of-The-Dead-2.part002" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/ivory-hive-105@main/Road-Of-The-Dead-2.part003" />
+    </movie>
+
+    <player>
+        <autoplay>on</autoplay>
+        <unmuteOverlay>hidden</unmuteOverlay>
+        <backgroundColor>#000</backgroundColor>
+        <letterbox>on</letterbox>
+        <warnOnUnsupportedContent>true</warnOnUnsupportedContent>
+        <contextMenu>on</contextMenu>
+        <showSwfDownload>false</showSwfDownload>
+        <allowNetworking>internal</allowNetworking>
+    </player>
+</ruffle>

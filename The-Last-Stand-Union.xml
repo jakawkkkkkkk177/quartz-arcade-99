@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruffle>
+    <movie name="The-Last-Stand-Union.swf">
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/jade-nest-115@main/The-Last-Stand-Union.part001" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/teal-wave-103@main/The-Last-Stand-Union.part002" />
+    </movie>
+
+    <player>
+        <autoplay>on</autoplay>
+        <unmuteOverlay>hidden</unmuteOverlay>
+        <backgroundColor>#000</backgroundColor>
+        <letterbox>on</letterbox>
+        <warnOnUnsupportedContent>true</warnOnUnsupportedContent>
+        <contextMenu>on</contextMenu>
+        <showSwfDownload>false</showSwfDownload>
+        <allowNetworking>internal</allowNetworking>
+    </player>
+</ruffle>

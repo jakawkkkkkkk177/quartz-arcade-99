@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruffle>
+    <movie name="Kingdom-Rush.swf">
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/magenta-gate-110@main/Kingdom-Rush.part001" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/vermillion-grid-118@main/Kingdom-Rush.part002" />
+    </movie>
+
+    <player>
+        <autoplay>on</autoplay>
+        <unmuteOverlay>hidden</unmuteOverlay>
+        <backgroundColor>#000</backgroundColor>
+        <letterbox>on</letterbox>
+        <warnOnUnsupportedContent>true</warnOnUnsupportedContent>
+        <contextMenu>on</contextMenu>
+        <showSwfDownload>false</showSwfDownload>
+        <allowNetworking>internal</allowNetworking>
+    </player>
+</ruffle>

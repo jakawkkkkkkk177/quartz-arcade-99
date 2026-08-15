@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruffle>
+    <movie name="The-Kings-League-Odyssey.swf">
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/maroon-vault-114@main/The-Kings-League-Odyssey.part001" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/ivory-hive-105@main/The-Kings-League-Odyssey.part002" />
+    </movie>
+
+    <player>
+        <autoplay>on</autoplay>
+        <unmuteOverlay>hidden</unmuteOverlay>
+        <backgroundColor>#000</backgroundColor>
+        <letterbox>on</letterbox>
+        <warnOnUnsupportedContent>true</warnOnUnsupportedContent>
+        <contextMenu>on</contextMenu>
+        <showSwfDownload>false</showSwfDownload>
+        <allowNetworking>internal</allowNetworking>
+    </player>
+</ruffle>

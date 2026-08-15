@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruffle>
+    <movie name="Epic-Battle-Fantasy-5.swf">
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/ivory-hive-105@main/Epic-Battle-Fantasy-5.part001" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/ivory-hive-105@main/Epic-Battle-Fantasy-5.part002" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/topaz-link-106@main/Epic-Battle-Fantasy-5.part003" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/topaz-link-106@main/Epic-Battle-Fantasy-5.part004" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/cerulean-bastion-107@main/Epic-Battle-Fantasy-5.part005" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/cerulean-bastion-107@main/Epic-Battle-Fantasy-5.part006" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/copper-ring-116@main/Epic-Battle-Fantasy-5.part007" />
+    </movie>
+
+    <player>
+        <autoplay>on</autoplay>
+        <unmuteOverlay>hidden</unmuteOverlay>
+        <backgroundColor>#000</backgroundColor>
+        <letterbox>on</letterbox>
+        <warnOnUnsupportedContent>true</warnOnUnsupportedContent>
+        <contextMenu>on</contextMenu>
+        <showSwfDownload>false</showSwfDownload>
+        <allowNetworking>internal</allowNetworking>
+    </player>
+</ruffle>

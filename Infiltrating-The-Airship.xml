@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruffle>
+    <movie name="Infiltrating-The-Airship.swf">
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/bronze-yard-109@main/Infiltrating-The-Airship.part001" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/copper-ring-116@main/Infiltrating-The-Airship.part002" />
+    </movie>
+
+    <player>
+        <autoplay>on</autoplay>
+        <unmuteOverlay>hidden</unmuteOverlay>
+        <backgroundColor>#000</backgroundColor>
+        <letterbox>on</letterbox>
+        <warnOnUnsupportedContent>true</warnOnUnsupportedContent>
+        <contextMenu>on</contextMenu>
+        <showSwfDownload>false</showSwfDownload>
+        <allowNetworking>internal</allowNetworking>
+    </player>
+</ruffle>

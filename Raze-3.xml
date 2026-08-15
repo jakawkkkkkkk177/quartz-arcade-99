@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruffle>
+    <movie name="Raze-3.swf">
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/saffron-core-112@main/Raze-3.part001" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/cerulean-bastion-107@main/Raze-3.part002" />
+    </movie>
+
+    <player>
+        <autoplay>on</autoplay>
+        <unmuteOverlay>hidden</unmuteOverlay>
+        <backgroundColor>#000</backgroundColor>
+        <letterbox>on</letterbox>
+        <warnOnUnsupportedContent>true</warnOnUnsupportedContent>
+        <contextMenu>on</contextMenu>
+        <showSwfDownload>false</showSwfDownload>
+        <allowNetworking>internal</allowNetworking>
+    </player>
+</ruffle>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruffle>
+    <movie name="Papa's-Scooperia.swf">
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/sepia-stack-111@main/Papa%27s-Scooperia.part001" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/azure-cache-104@main/Papa%27s-Scooperia.part002" />
+    </movie>
+
+    <player>
+        <autoplay>on</autoplay>
+        <unmuteOverlay>hidden</unmuteOverlay>
+        <backgroundColor>#000</backgroundColor>
+        <letterbox>on</letterbox>
+        <warnOnUnsupportedContent>true</warnOnUnsupportedContent>
+        <contextMenu>on</contextMenu>
+        <showSwfDownload>false</showSwfDownload>
+        <allowNetworking>internal</allowNetworking>
+    </player>
+</ruffle>

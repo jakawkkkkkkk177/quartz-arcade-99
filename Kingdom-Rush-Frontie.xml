@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruffle>
+    <movie name="Kingdom-Rush-Frontie.swf">
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/bronze-yard-109@main/Kingdom-Rush-Frontie.part001" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/magenta-gate-110@main/Kingdom-Rush-Frontie.part002" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/copper-ring-116@main/Kingdom-Rush-Frontie.part003" />
+    </movie>
+
+    <player>
+        <autoplay>on</autoplay>
+        <unmuteOverlay>hidden</unmuteOverlay>
+        <backgroundColor>#000</backgroundColor>
+        <letterbox>on</letterbox>
+        <warnOnUnsupportedContent>true</warnOnUnsupportedContent>
+        <contextMenu>on</contextMenu>
+        <showSwfDownload>false</showSwfDownload>
+        <allowNetworking>internal</allowNetworking>
+    </player>
+</ruffle>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruffle>
+    <movie name="Fleeing-The-Complex.swf">
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/crimson-bay-108@main/Fleeing-The-Complex.part001" />
+        <part url="https://cdn.jsdelivr.net/gh/jakawkkkkkkk177/cobalt-citadel-117@main/Fleeing-The-Complex.part002" />
+    </movie>
+
+    <player>
+        <autoplay>on</autoplay>
+        <unmuteOverlay>hidden</unmuteOverlay>
+        <backgroundColor>#000</backgroundColor>
+        <letterbox>on</letterbox>
+        <warnOnUnsupportedContent>true</warnOnUnsupportedContent>
+        <contextMenu>on</contextMenu>
+        <showSwfDownload>false</showSwfDownload>
+        <allowNetworking>internal</allowNetworking>
+    </player>
+</ruffle>
